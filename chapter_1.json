@@ -1,0 +1,22 @@
+{
+    "levels": [
+        {
+            "edgeX": 432,
+            "edgeY": 2879
+        },
+        {
+            "edgeX": 540,
+            "edgeY": 2215
+        },
+        {
+            "edgeX": 267,
+            "edgeY": 1439
+        }
+    ],
+    "award": {
+        "edgeX": 243,
+        "edgeY": 670
+    }
+}
+
+
